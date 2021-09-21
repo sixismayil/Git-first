@@ -1,0 +1,374 @@
+/*@Media-Tablet-768-901px*/
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) and (max-width: 901px) {
+  /* For Tablets: */
+
+  .fixed {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    margin-top: 250px;
+  }
+  .fixed .fa {
+    font-size: 45px;
+    margin: 15px 0 0 18px;
+  }
+
+  /* Section 1 */
+
+  .ctt1 .navbar .container-xl {
+    margin: 0;
+    padding-top: 1%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .ctt1 .navbar {
+    padding: 0;
+    margin-left: 0%;
+    width: 100%;
+  }
+  .ctt1 .text-box {
+    display: block;
+    width: 30%;
+    text-align: left;
+  }
+  .ctt1 .text-box b {
+    font-size: 20px;
+  }
+  .ctt1 .text-box .wash {
+    font-size: 11px;
+  }
+
+  .call1 {
+    width: 50%;
+    padding: 0;
+  }
+  nav .call1 .caf p {
+    padding-bottom: 5%;
+    font-size: 15px;
+  }
+
+  .call1 .call2 p {
+    font: 0.8em sans-serif;
+  }
+  .call1 .call2 .bi {
+    padding: 1%;
+  }
+
+  .nav-links {
+    width: 70%;
+    text-align: right;
+  }
+  .nav-links ul li {
+    padding: 0.5%;
+    font-size: 14px;
+  }
+  li.dropdown {
+    min-width: 40px;
+  }
+  .dropdown-content {
+    min-width: 100px;
+  }
+
+  .t .txt1 h1 {
+    font-size: 28px;
+    font-weight: 400;
+  }
+
+  .t .txt1 h2 {
+    font-size: 20px;
+  }
+
+  .t {
+    padding-top: 10%;
+    padding-left: 0%;
+  }
+
+  .formbg {
+    width: 55%;
+  }
+  .formbg > .overlay {
+    width: 75%;
+    height: 100%;
+    margin: 0% 0 0 22.5%;
+  }
+
+  .form-box {
+    margin-left: 20%;
+    width: 80%;
+  }
+  .form-box h2 {
+    font-size: 24px;
+    padding-top: 15%;
+  }
+  .input-field {
+    width: 60%;
+    margin: 3px 0;
+    padding: 15px;
+    font-size: 13px;
+    border-radius: 0px;
+  }
+  .t .hero-btn {
+    margin-top: 1%;
+    padding: 15px 13px;
+    font-size: 14px;
+    box-sizing: border-box;
+    margin-bottom: 10%;
+    position: static;
+  }
+  #comment {
+    padding-bottom: 10px;
+  }
+
+  /* Section 2 */
+  .sect2 h4 {
+    font-size: 18px;
+  }
+  .ticks .tick {
+    font-size: 20px;
+  }
+
+  /* Section 3 */
+
+  .section3 .container-xl {
+    margin: 0%;
+    padding: 0 3%;
+  }
+  .section3 p {
+    font-size: 35px;
+  }
+  /* 
+  .hjh .container {
+    margin: 0 auto;
+    padding: 0%;
+  }
+
+  .i1 {
+    width: 98%;
+  }
+
+  .i1 p {
+    font-size: 5vh;
+  }
+
+  .i1 p .bi {
+    padding: 0 20px 20px 0;
+    margin-top: 10%;
+  }
+
+  .i2 {
+    width: 106.9%;
+  }
+ */
+  /* Section 4 */
+
+  .sec4 .container {
+    margin: 0 auto;
+    padding: 0%;
+  }
+
+  .sec4 .hh1 h1 {
+    font-size: 35px;
+  }
+
+  .ev1 {
+    width: 100%;
+  }
+  .ev1 h2 {
+    font-size: 150%;
+  }
+
+  .ev1 .evp1 p {
+    font-size: 90%;
+  }
+
+  .evcall .bi {
+    padding: 1%;
+  }
+
+  /* Section 5 */
+  .hh2 h1 {
+    font-size: 38px;
+  }
+
+  /* Section 6 */
+  .sc6 .container {
+    margin-left: 0;
+  }
+  .sc6 u {
+    text-decoration-thickness: 3px;
+  }
+
+  .sc6 h2 {
+    font-size: 24px;
+  }
+  .sc6 .hero-btn {
+    padding: 12px 15px;
+    font-size: 14px;
+  }
+
+  /* Section 7 */
+  .section-7 .patric1 {
+    height: 200px;
+    margin-bottom: 2%;
+  }
+
+  .section-7 .picture img {
+    width: 140px;
+    height: 200px;
+    float: left;
+  }
+  .section-7 .patric2 {
+    background-color: #eceff7;
+    float: left;
+    width: 58%;
+    height: 200px;
+    padding-left: 12%;
+    padding-top: 12%;
+  }
+  .patric2 h5 {
+    font-size: 20px;
+  }
+  .patric2 .tel {
+    font-size: 14px;
+  }
+  .section-7 .patric2 .fa {
+    margin-right: 10px;
+    margin-top: 10%;
+    margin-bottom: 12%;
+  }
+
+  .section-7 .patric2 hr {
+    padding: 0px;
+    margin: 4% 0;
+    width: 55%;
+  }
+
+  .s7img2 {
+    height: 410px;
+    margin-bottom: 10%;
+  }
+
+  /*  
+  .cont1 h1 {
+    padding: 5% 0;
+  }
+
+  .s7im1 {
+    box-sizing: border-box;
+    min-width: 110%;
+  }
+
+  .s7im1 img {
+    box-sizing: border-box;
+  }
+  .s7box1 h5 {
+    padding-bottom: 0%;
+    font-size: 2.5vw;
+  }
+  .s7box1 .h5t h5 {
+    font-size: 2vw;
+  }
+
+  .s7box1 .qw {
+    box-sizing: border-box;
+    width: 170%;
+    padding: 6% 0 6% 10%;
+  }
+
+  .s7img2 {
+    min-height: 80%;
+  }
+
+  
+                    .c71 .container {margin:0 1% ;padding: 0;}
+                  
+                    .cont1 h1{padding: 5% 0;}
+                    
+                    
+                    .s7im1 img{width: 35%;}
+                    .s7box1 .qw{padding: 5% 10%; width: 150%;}
+                    .s7box1 .h5t h5{padding-bottom: 4%;}
+                    
+                    .s7img2{margin-left: 10%;}
+                    
+                    .fd1 {padding-left: 10%;}
+                  
+                  */
+
+  /* Section 8 */
+  .sec8 {
+    min-height: 70%;
+  }
+
+  .sec8 .sec8txt {
+    padding: 0;
+    padding-top: 5%;
+  }
+  .sec8 .sec8txt img {
+    padding-left: 4%;
+  }
+  .sec8txt h1,
+  .sec8 h4 {
+    padding: 0% 10% 0% 4%;
+  }
+  .sec8txt h1 {
+    font-size: 23px;
+  }
+  .sec8txt h4 {
+    font-size: 18px;
+  }
+  .sec8txt .s8btn {
+    padding: 8px 15px;
+    font-size: 14px;
+    margin-left: 4%;
+    margin-bottom: 18%;
+  }
+  .sec8 .overlay {
+    width: 102.5%;
+    padding-right: 10%;
+  }
+
+  /* Section 9 */
+
+  /* Section 10 */
+  .sec11 {
+    padding-top: 8%;
+    padding-bottom: 6%;
+  }
+
+  .obsi .bi {
+    padding: 3%;
+  }
+  .obsi h4 {
+    font-size: 14px;
+  }
+
+  /* Section 11 */
+  .sec11 .fot1 h4 {
+    font-size: 2.5vw;
+  }
+  .sec11 .fot1 h6 {
+    font-size: 1.8vw;
+  }
+
+  .sec11 .fot2 {
+    width: 100%;
+    padding-left: 0%;
+  }
+  .sec11 .fot2 .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    justify-content: space-around;
+  }
+
+  .sec11 .fot3 h6 {
+    font-size: 14px;
+  }
+}

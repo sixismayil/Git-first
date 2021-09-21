@@ -1,0 +1,319 @@
+/*@Media-Tablet-902-1199px*/
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 902px) and (max-width: 1199px) {
+  /* For Tablets: */
+
+  .fixed {
+    margin-top: 400px;
+  }
+
+  /* Section 1 */
+
+  .ctt1 .navbar .container-xl {
+    margin: 0;
+    padding-top: 1%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .ctt1 .navbar {
+    padding: 0;
+    margin-left: 0%;
+    width: 100%;
+  }
+  .ctt1 .text-box {
+    display: block;
+    width: 30%;
+    text-align: left;
+  }
+  .ctt1 .text-box b {
+    font-size: 20px;
+  }
+  .ctt1 .text-box .wash {
+    font-size: 11px;
+  }
+
+  .call1 {
+    width: 50%;
+    padding: 0;
+  }
+  nav .call1 .caf p {
+    padding-bottom: 5%;
+    font-size: 15px;
+  }
+
+  .call1 .call2 p {
+    font: 0.8em sans-serif;
+  }
+  .call1 .call2 .bi {
+    padding: 1%;
+  }
+
+  .nav-links {
+    width: 80%;
+    font-size: 15px;
+    text-align: right;
+  }
+  .nav-links ul li {
+    padding: 1%;
+  }
+  .dropdown-content {
+    min-width: 100px;
+  }
+  .dropdown-content a {
+    padding: 4px 0 4px 4px;
+    font-size: 14px;
+  }
+
+  .t {
+    padding-top: 3%;
+    padding-left: 2%;
+  }
+  .t .txt1 {
+    width: 100%;
+    padding-top: 15%;
+  }
+  .t .txt1 h1 {
+    font-size: 35px;
+    font-weight: 400;
+    width: 100%;
+  }
+  .t .txt1 h2 {
+    font-size: 28px;
+  }
+
+  .formbg {
+    width: 90%;
+    padding-top: 10%;
+  }
+  .formbg > .overlay {
+    width: 85%;
+    height: 100%;
+    margin: 10% 0 0 10%;
+  }
+
+  .form-box {
+    padding-left: 5%;
+  }
+  .form-box h2 {
+    font-size: 35px;
+    padding-top: 5%;
+  }
+  .input-field {
+    width: 60%;
+    margin: 2px 0;
+    padding: 20px;
+    font-size: 13px;
+  }
+  .container-xl .t .hero-btn {
+    margin-top: 1%;
+    padding: 20px 30px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin-bottom: 0%;
+    position: static;
+  }
+  #comment {
+    padding-bottom: 10px;
+  }
+
+  /* Section 2 */
+  .sect2 {
+    padding-bottom: 2%;
+  }
+  .sect2 h4 {
+    font-size: 20px;
+  }
+  .ticks .tick {
+    font-size: 23px;
+  }
+
+  /* Section 3 */
+  .section3 .container-xl {
+    margin: 0%;
+    padding: 0 2%;
+  }
+  /*  
+
+
+  .i1 {
+    width: 98%;
+  }
+
+  .i1 p {
+    font-size: 5vh;
+  }
+
+  .i1 p .bi {
+    padding: 0 20px 20px 0;
+    margin-top: 10%;
+  }
+
+  .i2 {
+    width: 106.9%;
+  }
+
+*/
+
+  /* Section 3 */
+
+  .section3 .container-xl {
+    margin: 0%;
+    padding: 0 2%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .sec3-img2,
+  .sec3-img1 {
+    object-fit: cover;
+    object-position: center;
+    padding: 0;
+    margin: 0;
+  }
+  */
+
+  /* Section 4 */
+
+  .sec4 .container {
+    margin: 0 auto;
+    padding: 0%;
+  }
+
+  .sec4 .hh1 h1 {
+    font-size: 35px;
+  }
+
+  .ev1 {
+    width: 100%;
+  }
+  .ev1 h2 {
+    font-size: 150%;
+  }
+  .ev1 .evp1 p {
+    font-size: 100%;
+  }
+
+  .evcall .bi {
+    padding: 1%;
+  }
+
+  /* Section 5 */
+  .hh2 h1 {
+    font-size: 38px;
+  }
+
+  /* Section 6 */
+  .sc6 .container {
+    margin-left: 0;
+  }
+  .sc6 u {
+    text-decoration-thickness: 3px;
+  }
+
+  .sc6 h2 {
+    font-size: 24px;
+  }
+  .sc6 .hero-btn {
+    padding: 12px 15px;
+    font-size: 14px;
+  }
+
+  /* Section 7 */
+
+  .section-7 .picture img {
+    width: 150px;
+    height: 230px;
+    float: left;
+  }
+
+  .s7img2 {
+    height: 475px;
+    margin-bottom: 8%;
+  }
+
+  /*  
+  .s7im1 img {
+    width: 30%;
+  }
+
+  .s7box1 .qw {
+    width: 150%;
+    padding: 8% 6%;
+  }
+
+  .s7img2 {
+    min-height: 75%;
+  }
+  */
+
+  /* Section 8 */
+  .sec8 {
+    min-height: 70%;
+  }
+
+  .sec8 .sec8txt {
+    padding: 6% 4%;
+    min-width: 70%;
+  }
+
+  .sec8txt h1 {
+    font-size: 25px;
+  }
+  .sec8txt h4 {
+    font-size: 18px;
+  }
+  .sec8txt .s8btn {
+    padding: 8px 15px;
+    font-size: 14px;
+    margin-left: 4%;
+    margin-bottom: 18%;
+  }
+  .sec8 .overlay {
+    width: 102.1%;
+    padding-right: 10%;
+  }
+
+  /* Section 9 */
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Section 10 */
+  .sec11 {
+    padding-top: 8%;
+    padding-bottom: 6%;
+  }
+
+  .obsi .bi {
+    padding: 1%;
+  }
+  .obsi h4 {
+    font-size: 14px;
+  }
+
+  /* Section 11 */
+  .sec11 .fot1 h4 {
+    font-size: 2.5vw;
+  }
+  .sec11 .fot1 h6 {
+    font-size: 1.8vw;
+  }
+
+  .sec11 .fot2 {
+    width: 100%;
+    padding-left: 0%;
+  }
+  .sec11 .fot2 .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    justify-content: space-around;
+  }
+
+  .sec11 .fot3 h6 {
+    font-size: 14px;
+  }
+}
