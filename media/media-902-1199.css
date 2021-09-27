@@ -11,6 +11,9 @@
   }
 
   /* Section 1 */
+  .header {
+    min-height: 50vh;
+  }
 
   .ctt1 .navbar .container-xl {
     margin: 0;
@@ -42,14 +45,11 @@
   }
   nav .call1 .caf p {
     padding-bottom: 5%;
-    font-size: 15px;
+    font-size: 12px;
   }
 
   .call1 .call2 p {
-    font: 0.8em sans-serif;
-  }
-  .call1 .call2 .bi {
-    padding: 1%;
+    font-size: 18px;
   }
 
   .nav-links {
@@ -74,15 +74,17 @@
   }
   .t .txt1 {
     width: 100%;
-    padding-top: 15%;
   }
   .t .txt1 h1 {
-    font-size: 35px;
+    font-size: 36px;
     font-weight: 400;
     width: 100%;
   }
   .t .txt1 h2 {
-    font-size: 28px;
+    font-size: 16px;
+  }
+  .t h1 br {
+    display: none;
   }
 
   .formbg {
@@ -93,6 +95,7 @@
     width: 85%;
     height: 100%;
     margin: 10% 0 0 10%;
+    opacity: 0.8;
   }
 
   .form-box {
@@ -110,7 +113,7 @@
   }
   .container-xl .t .hero-btn {
     margin-top: 1%;
-    padding: 20px 30px;
+    padding: 9px 15px;
     font-size: 16px;
     box-sizing: border-box;
     margin-bottom: 0%;

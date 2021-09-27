@@ -21,8 +21,7 @@
   /* Section 1 */
 
   .header {
-    padding-bottom: 0%;
-    min-height: 180vh;
+    min-height: 870px;
   }
 
   .ctt1 .overlay {
@@ -62,11 +61,11 @@
   }
   nav .call1 .caf p {
     padding-bottom: 8%;
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .call1 .call2 p {
-    font: 18px sans-serif;
+    font-size: 20px;
   }
   .call1 .call2 .bi {
     padding: 1%;
@@ -77,6 +76,9 @@
 
   .nav-links-2 {
     display: initial;
+  }
+  .nav-links-2 .button1 {
+    margin-top: 3px;
   }
   .dropbtn {
     display: flex;
@@ -164,10 +166,10 @@
   }
   .t .txt1 {
     width: 100%;
-    margin: 6% 0% 0 1%;
+    margin: 1% 0% 0 1%;
   }
   .t .txt1 h1 {
-    font-size: 27px;
+    font-size: 32px;
     font-weight: 400;
     width: 100%;
   }
@@ -205,7 +207,7 @@
   }
   .t .hero-btn {
     margin-top: 1%;
-    padding: 12px 15px;
+    padding: 9px 15px;
     font-size: 14px;
     box-sizing: border-box;
     margin-bottom: 3%;

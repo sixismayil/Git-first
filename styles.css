@@ -140,7 +140,7 @@ html {
 .ctt1 > .overlay {
   width: 100%;
   height: 100%;
-  background: rgb(3, 5, 119);
+  background: rgb(5, 3, 119);
   opacity: 0.9;
   font: 18px tahoma;
   position: absolute;
@@ -155,9 +155,8 @@ html {
 }
 
 .wash {
-  font-size: 18px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
 }
 .text-box {
   text-align: left;
@@ -165,7 +164,7 @@ html {
 .text-box h4 {
   float: left;
   color: #fff;
-  font-size: 20px;
+  font-size: 24px;
   cursor: pointer;
 }
 nav .call1 {
@@ -173,10 +172,12 @@ nav .call1 {
   text-align: center;
   position: relative;
   padding-left: 10%;
+  padding-top: 1%;
 }
 nav .call1 .caf p {
   color: white;
-  font-size: 18px;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .call2 {
@@ -186,9 +187,10 @@ nav .call1 .caf p {
 }
 .call2 {
   color: #05b4f5;
-  font-size: 20px;
-  font-weight: 800;
-  margin-top: -10%;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: -12%;
+  font-family: "Oswald", sans-serif;
 }
 .call2 :hover {
   color: white;
@@ -322,7 +324,6 @@ li.dropdown {
   background-image: url(https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
   background-position: center;
   background-size: cover;
-  position: relative;
 }
 
 .t {
@@ -334,15 +335,14 @@ li.dropdown {
 }
 .t h1 {
   color: #fff;
-  font-size: 45px;
-  font-family: sans-serif;
-  font-weight: 500;
+  font-size: 57px;
+  font-family: "Oswald", sans-serif;
 }
+
 .t h2 {
   color: #fff;
   font-size: 30px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .t .hero-btn {
@@ -353,7 +353,7 @@ li.dropdown {
   padding: 15px 45px;
   background-color: #05b4f5;
   transition: 0.5s;
-  font: 18px Georgia, "Times New Roman", Times, serif;
+  font: 18px "Oswald", sans-serif;
 }
 .t .hero-btn:hover {
   background-color: rgb(3, 15, 49);
@@ -387,10 +387,11 @@ li.dropdown {
 }
 .form-box h2 {
   color: #fff;
-  font-size: 35px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 44px;
+  font-family: "Oswald", sans-serif;
   padding-top: 50px;
   padding-bottom: 5px;
+  font-weight: 700;
 }
 .form-box .hero-btn {
   margin-top: 1%;

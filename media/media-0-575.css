@@ -21,8 +21,7 @@
 
   /* Section 1 */
   .header {
-    padding-bottom: 10%;
-    min-height: 180vh;
+    min-height: 850px;
   }
   .header .container {
     padding: 0;
@@ -62,12 +61,12 @@
     padding-top: 1%;
   }
   nav .call1 .caf p {
-    padding-bottom: 8%;
-    font-size: 15px;
+    padding-bottom: 6%;
+    font-size: 14px;
   }
 
   .call1 .call2 p {
-    font: 18px sans-serif;
+    font-size: 20px;
   }
   .call1 .call2 .bi {
     padding: 1%;
@@ -85,6 +84,9 @@
 
   .nav-links-2 {
     display: initial;
+  }
+  .nav-links-2 .button1 {
+    margin-top: 3px;
   }
   .nav-links-2 ul {
     width: 90%;
@@ -113,17 +115,18 @@
   }
 
   .t {
-    padding-top: 1%;
+    padding-top: 10%;
+    padding-bottom: 10%;
     display: block;
   }
   .t .txt1 {
     width: 100%;
-    margin: 10% 0% 0 1%;
+    margin: 0% 0% 0 1%;
   }
   .t .txt1 h1 {
-    font-size: 23px;
+    font-size: 30px;
     font-weight: 400;
-    width: 100%;
+    width: 90%;
   }
   .t .txt1 h2 {
     font-size: 17px;
@@ -157,12 +160,12 @@
     font-size: 13px;
   }
   .t .hero-btn {
-    margin-top: 10%;
-    padding: 9px 12px;
+    margin: 2px 0;
+    padding: 9px 15px;
     font-size: 14px;
     box-sizing: border-box;
-    margin-bottom: 3%;
     position: static;
+    margin-bottom: 20px;
   }
   #comment {
     padding-bottom: 10px;
